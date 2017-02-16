@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="template" client="site">
+<name>crtmpl</name>
+<creationDate>13/09/16</creationDate>
+<author>Zinko Viktor</author>
+<authorEmail>zinkoexp@gmail.com</authorEmail>
+<authorUrl>http://www.zinkoviktor.comli.com</authorUrl>
+<copyright>Copyright (C) 2016 Zinko Viktor</copyright>
+<license>Free</license>
+<version>1.0.0</version>
+<description>Temlate cr</description>
+	<files>
+	<filename>index.php</filename>
+	<filename>templateDetails.xml</filename>
+	<filename>index.html</filename>
+	<filename>favicon.ico</filename>
+	<folder>images</folder>
+	<folder>css</folder>
+	<folder>html</folder>
+	<folder>javascript</folder>
+	<folder>font</folder>
+	</files>
+
+	<positions>
+	<position>debug</position>
+	<position>menu</position>
+	<position>slider</position>
+	<position>build</position>
+	<position>school</position>
+	<position>aside</position>
+	<position>schedule</position>
+	<position>allnews</position>
+	<position>news</position>
+	<position>footer</position>
+	</positions>
+</extension>
